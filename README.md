@@ -1,2 +1,2 @@
-# tony-python
-python language demo
+# tony-python-tutorial
+python tutorial demo
